@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["dharini"]
   s.email       = ["user@example.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: This is not a real gem, just for practice. Do not use!}
-  s.description = %q{TODO: This is not a real gem, just for practice. Do not use!}
+  s.summary     = %q{This is not a real gem, just for practice. Do not use!}
+  s.description = %q{This is not a real gem, just for practice. Do not use!}
 
   s.rubyforge_project = "about-dharini"
 
