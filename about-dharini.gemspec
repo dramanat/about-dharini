@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-$:.push File.expand_path("../lib", __FILE__)
+$:.push File.expand_path("../lib/about-dharini/version", __FILE__)
 require "about-dharini/version"
 
 Gem::Specification.new do |s|
